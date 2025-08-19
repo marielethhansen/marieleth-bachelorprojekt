@@ -1,4 +1,4 @@
-# Marie Leth Hansen - bachelorprojekt
+# Marie Leth - bachelorprojekt
 ## Introduktion til projektet
 Dette repository indeholder do-fil og dataanalyser til mit bachelorprojekt fra 2020 på Institut for Statskundskab ved Aarhus Universitet. Projektet omhandler danske vælgeres evaluering af politiske lederes kompetencer.
 
